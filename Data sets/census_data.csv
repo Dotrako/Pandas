@@ -1,0 +1,101 @@
+first_name,last_name,birth_year,voted,num_children,income_year,higher_tax,marital_status
+Denise,Ratke,2005,FALSE,0,92129.41,disagree,single
+Hali,Cummerata,1987,FALSE,0,75649.17,neutral,divorced
+Salomon,Orn,1992,TRUE,2,166313.45,agree,single
+Sarina,Schiller,1965,FALSE,2,71704.81,strongly agree,married
+Gust,Abernathy,1945,FALSE,2,143316.08,agree,married
+Lady,Hills,1951,TRUE,0,160391.2,disagree,widowed
+Tremaine,Pacocha,1963,FALSE,1,49801.77,strongly disagree,divorced
+Jaime,Towne,1949,FALSE,2,140803.16,agree,single
+Tex,Lynch,1950,FALSE,1,122486.71,agree,single
+Nathanial,Gislason,1971,TRUE,4,157088.26,strongly agree,married
+Dori,Weissnat,2007,TRUE,3,134265.92,disagree,married
+Baldwin,Johnson,1944,FALSE,0,38891.56,disagree,widowed
+Catrina,Nader,1963,TRUE,3,194333.01,agree,single
+Arlena,Crona,1995,TRUE,4,181611.71,agree,married
+Loring,Kling,1973,FALSE,4,119504.61,agree,single
+Roll,Bogisich,1946,TRUE,3,102269.35,disagree,divorced
+Geraldo,Kautzer,1954,FALSE,3,74991.2,disagree,divorced
+Lexis,Lockman,1994,TRUE,4,193123.43,disagree,single
+Norine,Hand,1989,FALSE,0,65926.5,neutral,divorced
+Derald,Pfeffer,1947,TRUE,0,80073.83,disagree,married
+Ted,Christiansen,1993,TRUE,2,52389.69,strongly disagree,divorced
+Jamal,Connelly,1989,TRUE,4,160391.21,neutral,single
+Lindy,Dooley,1976,TRUE,1,75930.78,disagree,married
+Jarret,Douglas,1984,FALSE,3,46704.79,strongly agree,married
+Fumiko,Monahan,1949,FALSE,0,112923.53,disagree,single
+Johnie,Runolfsson,missing,TRUE,3,80478.48,neutral,divorced
+Francesca,Beahan,1966,FALSE,1,87453.19,strongly disagree,single
+King,Donnelly,1945,FALSE,1,154919.13,agree,married
+Zola,Mayer,1992,FALSE,0,47814.99,neutral,divorced
+Seymour,Sanford,1941,FALSE,3,108892.58,agree,divorced
+Armando,Carter,2000,FALSE,4,189335.31,disagree,married
+Nathalie,Runte,1951,TRUE,0,48370.32,disagree,widowed
+Trevor,Monahan,1953,FALSE,3,149052.29,strongly agree,single
+Laverne,Streich,1971,TRUE,1,116482.23,disagree,divorced
+Linna,Monahan,1956,FALSE,3,197143.58,agree,divorced
+Daulton,Prohaska,1960,FALSE,0,105501.13,strongly agree,single
+Celestine,Gusikowski,1994,FALSE,1,44727.06,disagree,married
+Arminda,Stark,2001,TRUE,1,68482.2,disagree,single
+Erline,Abbott,1980,TRUE,1,99337.46,neutral,married
+Denisse,Orn,1954,FALSE,1,46537.19,disagree,married
+Augustine,Bayer,1963,FALSE,3,174789.4,agree,divorced
+Mart,Jacobson,1951,TRUE,0,99867.58,neutral,single
+Branson,Morissette,2007,TRUE,2,113621.33,disagree,married
+Ricci,Cartwright,1953,FALSE,1,104480.48,strongly agree,married
+Nikki,Jacobs,1955,FALSE,4,35635.14,neutral,married
+Ottilia,Haley,1992,FALSE,3,58615.04,strongly agree,married
+Loretta,Schimmel,1985,FALSE,4,151979.07,agree,married
+Meaghan,McLaughlin,1985,TRUE,2,48135.37,disagree,divorced
+Manford,Brekke,1996,FALSE,1,170502.75,disagree,married
+Estefania,Feeney,1968,TRUE,0,192918.73,agree,divorced
+Orrie,Reilly,1979,TRUE,2,188906.81,neutral,divorced
+Sharif,Wuckert,2006,FALSE,1,182474.58,disagree,married
+Johnnie,Lynch,1962,TRUE,3,50025.81,disagree,married
+Lular,Crona,1981,FALSE,2,189155.9,disagree,divorced
+Mollie,Brakus,1959,FALSE,4,46859.13,strongly disagree,widowed
+Leeann,Johnston,1977,FALSE,3,81952.24,strongly disagree,single
+Chantelle,Prohaska,1984,FALSE,4,80552.78,disagree,divorced
+Audie,O'Kon,1941,FALSE,3,125831.81,strongly agree,widowed
+Alyssia,Olson,1960,FALSE,3,133419.12,strongly agree,divorced
+Dania,Kuhn,1978,TRUE,2,76658.53,agree,married
+Tyrone,Paucek,1978,FALSE,2,69115.63,disagree,married
+Sheena,Franecki,1971,FALSE,1,134539.93,agree,married
+Maxx,Cormier,1983,TRUE,0,79993.17,disagree,married
+Adria,Carroll,1995,FALSE,0,54709.57,disagree,single
+Tarsha,Runte,1957,TRUE,3,187941.7,disagree,married
+Braeden,Crooks,1973,TRUE,1,89332.54,disagree,married
+Judi,Jacobi,2006,FALSE,0,89958.19,disagree,married
+Wood,O'Reilly,1955,FALSE,1,114179.75,agree,divorced
+Maci,Kohler,1961,TRUE,1,44890.07,strongly disagree,divorced
+Stanton,Volkman,1982,TRUE,3,186258.61,strongly disagree,married
+Khalid,Corwin,2002,TRUE,0,76100.19,strongly agree,single
+Arietta,Leannon,2005,TRUE,0,67569.21,disagree,single
+Skyla,Renner,1998,TRUE,0,90124.23,disagree,single
+Karyl,Bernhard,2007,TRUE,4,153016.41,agree,divorced
+Manley,VonRueden,2005,TRUE,3,134271.07,disagree,married
+Rueben,Walter,1966,TRUE,0,90276.54,strongly agree,single
+Hudson,Ward,1961,FALSE,2,69871.65,agree,single
+Triston,Thiel,1999,TRUE,1,130838.2,agree,widowed
+Francisco,Kub,2006,TRUE,0,178833.15,agree,single
+Otha,Mraz,1952,TRUE,2,198123.77,disagree,single
+Christa,Gibson,1940,TRUE,2,68903.12,strongly disagree,married
+Stephen,Corkery,1961,FALSE,0,76425.08,disagree,married
+Willis,Rippin,1989,TRUE,1,186772.31,disagree,single
+Randle,DuBuque,1986,TRUE,3,118041.92,agree,single
+Haden,Spencer,1998,TRUE,2,112195.23,strongly agree,single
+Gilford,Smitham,1949,FALSE,2,186446,agree,single
+Creed,Kozey,1946,FALSE,4,50457.06,strongly agree,single
+Elianna,Moore,1946,FALSE,4,122003.16,strongly disagree,single
+Rollin,Hyatt,1966,FALSE,0,148942.08,agree,divorced
+Debrah,Nikolaus,1978,TRUE,1,123484.78,agree,single
+Arleth,Stamm,1954,TRUE,0,115489.82,agree,single
+Germaine,Pfannerstill,1949,TRUE,4,86055.84,strongly agree,married
+Dawson,Satterfield,1973,TRUE,1,174961.51,strongly disagree,married
+Jaydin,Marvin,1995,TRUE,0,61556.72,disagree,married
+Fumiko,Stehr,1962,FALSE,4,180735.05,agree,single
+Carisa,Hills,1958,FALSE,3,157117.14,agree,married
+Tameka,Collins,2001,FALSE,1,61518.34,strongly disagree,single
+Adams,Leuschke,1987,FALSE,0,41784.87,strongly agree,single
+Earnestine,Gutmann,1985,TRUE,4,79021.46,disagree,widowed
+Rosa,Runolfsson,1961,TRUE,3,82300.02,strongly agree,single
